@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_systems\\KironTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE026DE5-472D-4B1D-80D0-815A08B5BF9E}|KironTest.API\\KironTest.API.csproj|c:\\_systems\\kirontest\\kirontest.api\\controllers\\coinstatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE026DE5-472D-4B1D-80D0-815A08B5BF9E}|KironTest.API\\KironTest.API.csproj|solutionrelative:kirontest.api\\controllers\\coinstatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE026DE5-472D-4B1D-80D0-815A08B5BF9E}|KironTest.API\\KironTest.API.csproj|c:\\_systems\\kirontest\\kirontest.api\\controllers\\holidaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE026DE5-472D-4B1D-80D0-815A08B5BF9E}|KironTest.API\\KironTest.API.csproj|solutionrelative:kirontest.api\\controllers\\holidaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoinStatsController.cs",
+              "DocumentMoniker": "C:\\_systems\\KironTest\\KironTest.API\\Controllers\\CoinStatsController.cs",
+              "RelativeDocumentMoniker": "KironTest.API\\Controllers\\CoinStatsController.cs",
+              "ToolTip": "C:\\_systems\\KironTest\\KironTest.API\\Controllers\\CoinStatsController.cs",
+              "RelativeToolTip": "KironTest.API\\Controllers\\CoinStatsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:22:14.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HolidayController.cs",
+              "DocumentMoniker": "C:\\_systems\\KironTest\\KironTest.API\\Controllers\\HolidayController.cs",
+              "RelativeDocumentMoniker": "KironTest.API\\Controllers\\HolidayController.cs",
+              "ToolTip": "C:\\_systems\\KironTest\\KironTest.API\\Controllers\\HolidayController.cs",
+              "RelativeToolTip": "KironTest.API\\Controllers\\HolidayController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:19:42.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

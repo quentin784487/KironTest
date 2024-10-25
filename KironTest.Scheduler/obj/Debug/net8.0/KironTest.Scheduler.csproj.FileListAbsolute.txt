@@ -25,3 +25,4 @@ C:\_systems\KironTest\KironTest.Scheduler\obj\Debug\net8.0\KironTest.Scheduler.d
 C:\_systems\KironTest\KironTest.Scheduler\obj\Debug\net8.0\refint\KironTest.Scheduler.dll
 C:\_systems\KironTest\KironTest.Scheduler\obj\Debug\net8.0\KironTest.Scheduler.pdb
 C:\_systems\KironTest\KironTest.Scheduler\obj\Debug\net8.0\ref\KironTest.Scheduler.dll
+C:\_systems\KironTest\KironTest.Scheduler\obj\Debug\net8.0\KironTest.Scheduler.sourcelink.json

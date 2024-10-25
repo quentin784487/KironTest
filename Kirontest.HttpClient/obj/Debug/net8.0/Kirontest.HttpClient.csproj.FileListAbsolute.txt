@@ -9,3 +9,4 @@ C:\_systems\KironTest\Kirontest.HttpClient\obj\Debug\net8.0\Kirontest.HttpClient
 C:\_systems\KironTest\Kirontest.HttpClient\obj\Debug\net8.0\refint\Kirontest.HttpClient.dll
 C:\_systems\KironTest\Kirontest.HttpClient\obj\Debug\net8.0\Kirontest.HttpClient.pdb
 C:\_systems\KironTest\Kirontest.HttpClient\obj\Debug\net8.0\ref\Kirontest.HttpClient.dll
+C:\_systems\KironTest\Kirontest.HttpClient\obj\Debug\net8.0\Kirontest.HttpClient.sourcelink.json

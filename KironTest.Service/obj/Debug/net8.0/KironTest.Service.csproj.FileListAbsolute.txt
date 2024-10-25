@@ -23,3 +23,4 @@ C:\_systems\KironTest\KironTest.Service\bin\Debug\net8.0\KironTest.Caching.dll
 C:\_systems\KironTest\KironTest.Service\bin\Debug\net8.0\KironTest.Caching.pdb
 C:\_systems\KironTest\KironTest.Service\bin\Debug\net8.0\Kirontest.HttpClient.dll
 C:\_systems\KironTest\KironTest.Service\bin\Debug\net8.0\Kirontest.HttpClient.pdb
+C:\_systems\KironTest\KironTest.Service\obj\Debug\net8.0\KironTest.Service.sourcelink.json

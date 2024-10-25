@@ -1,6 +1,6 @@
 USE [KironTest]
 GO
-/****** Object:  Table [dbo].[Events]    Script Date: 2024/10/25 17:03:38 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -18,7 +18,7 @@ CREATE TABLE [dbo].[Events](
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
 ) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
 GO
-/****** Object:  Table [dbo].[HolidayTitles]    Script Date: 2024/10/25 17:03:38 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -32,22 +32,7 @@ CREATE TABLE [dbo].[HolidayTitles](
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
 ) ON [PRIMARY]
 GO
-/****** Object:  Table [dbo].[Navigation]    Script Date: 2024/10/25 17:03:38 ******/
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[Navigation](
-	[ID] [int] IDENTITY(1,1) NOT NULL,
-	[Text] [varchar](50) NOT NULL,
-	[ParentID] [int] NOT NULL,
- CONSTRAINT [PK_Navigation] PRIMARY KEY CLUSTERED 
-(
-	[ID] ASC
-)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
-) ON [PRIMARY]
-GO
-/****** Object:  Table [dbo].[Reqions]    Script Date: 2024/10/25 17:03:38 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -62,7 +47,7 @@ CREATE TABLE [dbo].[Reqions](
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
 ) ON [PRIMARY]
 GO
-/****** Object:  Table [dbo].[Users]    Script Date: 2024/10/25 17:03:38 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -91,7 +76,7 @@ REFERENCES [dbo].[Reqions] ([Id])
 GO
 ALTER TABLE [dbo].[Events] CHECK CONSTRAINT [FK_Events_Reqions]
 GO
-/****** Object:  StoredProcedure [dbo].[sp_GetAllBankHolidaysById]    Script Date: 2024/10/25 17:03:39 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -118,7 +103,7 @@ BEGIN
 END
 
 GO
-/****** Object:  StoredProcedure [dbo].[sp_GetAllRegions]    Script Date: 2024/10/25 17:03:39 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -132,16 +117,12 @@ BEGIN
 END
 
 GO
-/****** Object:  StoredProcedure [dbo].[sp_GetSitemap]    Script Date: 2024/10/25 17:03:39 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
 GO
--- =============================================
--- Quentin Engelbrecht
--- 2024/10/19
--- Get all navigation routes.
--- =============================================
+
 CREATE PROCEDURE [dbo].[sp_GetSitemap]
 AS
 BEGIN
@@ -151,7 +132,7 @@ SELECT ID, Text, ParentID FROM Navigation ORDER BY ParentID
  
 END
 GO
-/****** Object:  StoredProcedure [dbo].[sp_GetUser]    Script Date: 2024/10/25 17:03:39 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -167,7 +148,7 @@ SELECT Id, Username, Password FROM Users WHERE Username = @Username
  
 END
 GO
-/****** Object:  StoredProcedure [dbo].[sp_HasAnyHolidays]    Script Date: 2024/10/25 17:03:39 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -188,7 +169,7 @@ BEGIN
 END
 
 GO
-/****** Object:  StoredProcedure [dbo].[sp_SetEvent]    Script Date: 2024/10/25 17:03:39 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -210,7 +191,7 @@ BEGIN
 END
 
 GO
-/****** Object:  StoredProcedure [dbo].[sp_SetHolidayTitle]    Script Date: 2024/10/25 17:03:39 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -240,7 +221,7 @@ BEGIN
 END
 
 GO
-/****** Object:  StoredProcedure [dbo].[sp_SetRegion]    Script Date: 2024/10/25 17:03:39 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -271,7 +252,7 @@ BEGIN
 END
 
 GO
-/****** Object:  StoredProcedure [dbo].[sp_SetUser]    Script Date: 2024/10/25 17:03:39 ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON

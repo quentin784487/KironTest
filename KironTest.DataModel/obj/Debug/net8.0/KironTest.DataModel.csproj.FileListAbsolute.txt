@@ -9,3 +9,4 @@ C:\_systems\KironTest\KironTest.DataModel\obj\Debug\net8.0\KironTest.DataModel.d
 C:\_systems\KironTest\KironTest.DataModel\obj\Debug\net8.0\refint\KironTest.DataModel.dll
 C:\_systems\KironTest\KironTest.DataModel\obj\Debug\net8.0\KironTest.DataModel.pdb
 C:\_systems\KironTest\KironTest.DataModel\obj\Debug\net8.0\ref\KironTest.DataModel.dll
+C:\_systems\KironTest\KironTest.DataModel\obj\Debug\net8.0\KironTest.DataModel.sourcelink.json

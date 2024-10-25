@@ -10,3 +10,4 @@ C:\_systems\KironTest\KironTest.Caching\obj\Debug\net8.0\KironTest.Caching.dll
 C:\_systems\KironTest\KironTest.Caching\obj\Debug\net8.0\refint\KironTest.Caching.dll
 C:\_systems\KironTest\KironTest.Caching\obj\Debug\net8.0\KironTest.Caching.pdb
 C:\_systems\KironTest\KironTest.Caching\obj\Debug\net8.0\ref\KironTest.Caching.dll
+C:\_systems\KironTest\KironTest.Caching\obj\Debug\net8.0\KironTest.Caching.sourcelink.json

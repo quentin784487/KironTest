@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KironTest.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91b90ea5d1ea5e7a50d73ff208d2edfb791d4276")]
 [assembly: System.Reflection.AssemblyProductAttribute("KironTest.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KironTest.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

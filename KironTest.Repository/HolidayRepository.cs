@@ -41,7 +41,7 @@ namespace KironTest.Repository
                         {
                             foreach (var region in regions)
                             {
-                                DynamicParameters parameters = new DynamicParameters();
+                                var parameters = new DynamicParameters();
                                 parameters.Add("Name", region.Name);
                                 parameters.Add("Division", region.Division);
                                 parameters.Add("Id", dbType: DbType.Int32, direction: ParameterDirection.Output);

@@ -19,3 +19,4 @@ C:\_systems\KironTest\KironTest.Repository\obj\Debug\net8.0\KironTest.Repository
 C:\_systems\KironTest\KironTest.Repository\obj\Debug\net8.0\ref\KironTest.Repository.dll
 C:\_systems\KironTest\KironTest.Repository\bin\Debug\net8.0\Kirontest.HttpClient.dll
 C:\_systems\KironTest\KironTest.Repository\bin\Debug\net8.0\Kirontest.HttpClient.pdb
+C:\_systems\KironTest\KironTest.Repository\obj\Debug\net8.0\KironTest.Repository.sourcelink.json

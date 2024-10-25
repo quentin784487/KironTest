@@ -73,3 +73,4 @@ C:\_systems\KironTest\KironTest.API\bin\Debug\net8.0\Quartz.Jobs.dll
 C:\_systems\KironTest\KironTest.API\bin\Debug\net8.0\Quartz.Serialization.Json.dll
 C:\_systems\KironTest\KironTest.API\bin\Debug\net8.0\KironTest.Scheduler.dll
 C:\_systems\KironTest\KironTest.API\bin\Debug\net8.0\KironTest.Scheduler.pdb
+C:\_systems\KironTest\KironTest.API\obj\Debug\net8.0\KironTest.API.sourcelink.json

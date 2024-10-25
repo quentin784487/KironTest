@@ -13,3 +13,4 @@ C:\_systems\KironTest\KironTest.DAL\obj\Debug\net8.0\KironTest.DAL.dll
 C:\_systems\KironTest\KironTest.DAL\obj\Debug\net8.0\refint\KironTest.DAL.dll
 C:\_systems\KironTest\KironTest.DAL\obj\Debug\net8.0\KironTest.DAL.pdb
 C:\_systems\KironTest\KironTest.DAL\obj\Debug\net8.0\ref\KironTest.DAL.dll
+C:\_systems\KironTest\KironTest.DAL\obj\Debug\net8.0\KironTest.DAL.sourcelink.json

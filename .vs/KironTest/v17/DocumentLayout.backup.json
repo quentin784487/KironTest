@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_systems\\KironTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3782B94-FA2B-43CF-8D27-C9A7A77C4871}|KironTest.Service\\KironTest.Service.csproj|c:\\_systems\\kirontest\\kirontest.service\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3782B94-FA2B-43CF-8D27-C9A7A77C4871}|KironTest.Service\\KironTest.Service.csproj|solutionrelative:kirontest.service\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE026DE5-472D-4B1D-80D0-815A08B5BF9E}|KironTest.API\\KironTest.API.csproj|c:\\_systems\\kirontest\\kirontest.api\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE026DE5-472D-4B1D-80D0-815A08B5BF9E}|KironTest.API\\KironTest.API.csproj|solutionrelative:kirontest.api\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451854E5-C777-42E5-94B0-C345263EA1C1}|KironTest.DAL\\KironTest.DAL.csproj|c:\\_systems\\kirontest\\kirontest.dal\\databasewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451854E5-C777-42E5-94B0-C345263EA1C1}|KironTest.DAL\\KironTest.DAL.csproj|solutionrelative:kirontest.dal\\databasewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55B0ED55-7544-4353-B72B-A965BA5B9E06}|KironTest.Repository\\KironTest.Repository.csproj|c:\\_systems\\kirontest\\kirontest.repository\\holidayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B0ED55-7544-4353-B72B-A965BA5B9E06}|KironTest.Repository\\KironTest.Repository.csproj|solutionrelative:kirontest.repository\\holidayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecurityService.cs",
+              "DocumentMoniker": "C:\\_systems\\KironTest\\KironTest.Service\\SecurityService.cs",
+              "RelativeDocumentMoniker": "KironTest.Service\\SecurityService.cs",
+              "ToolTip": "C:\\_systems\\KironTest\\KironTest.Service\\SecurityService.cs",
+              "RelativeToolTip": "KironTest.Service\\SecurityService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:14:59.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecurityController.cs",
+              "DocumentMoniker": "C:\\_systems\\KironTest\\KironTest.API\\Controllers\\SecurityController.cs",
+              "RelativeDocumentMoniker": "KironTest.API\\Controllers\\SecurityController.cs",
+              "ToolTip": "C:\\_systems\\KironTest\\KironTest.API\\Controllers\\SecurityController.cs",
+              "RelativeToolTip": "KironTest.API\\Controllers\\SecurityController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:14:52.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseWrapper.cs",
+              "DocumentMoniker": "C:\\_systems\\KironTest\\KironTest.DAL\\DatabaseWrapper.cs",
+              "RelativeDocumentMoniker": "KironTest.DAL\\DatabaseWrapper.cs",
+              "ToolTip": "C:\\_systems\\KironTest\\KironTest.DAL\\DatabaseWrapper.cs",
+              "RelativeToolTip": "KironTest.DAL\\DatabaseWrapper.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:39:32.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HolidayRepository.cs",
+              "DocumentMoniker": "C:\\_systems\\KironTest\\KironTest.Repository\\HolidayRepository.cs",
+              "RelativeDocumentMoniker": "KironTest.Repository\\HolidayRepository.cs",
+              "ToolTip": "C:\\_systems\\KironTest\\KironTest.Repository\\HolidayRepository.cs",
+              "RelativeToolTip": "KironTest.Repository\\HolidayRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:37:46.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

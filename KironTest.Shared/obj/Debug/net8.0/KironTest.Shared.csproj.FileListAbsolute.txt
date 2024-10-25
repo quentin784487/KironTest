@@ -9,3 +9,4 @@ C:\_systems\KironTest\KironTest.Shared\obj\Debug\net8.0\KironTest.Shared.dll
 C:\_systems\KironTest\KironTest.Shared\obj\Debug\net8.0\refint\KironTest.Shared.dll
 C:\_systems\KironTest\KironTest.Shared\obj\Debug\net8.0\KironTest.Shared.pdb
 C:\_systems\KironTest\KironTest.Shared\obj\Debug\net8.0\ref\KironTest.Shared.dll
+C:\_systems\KironTest\KironTest.Shared\obj\Debug\net8.0\KironTest.Shared.sourcelink.json
