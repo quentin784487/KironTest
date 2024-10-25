@@ -1,0 +1,198 @@
+[
+  {
+    "ContainingType": "KironTest.API.Controllers.CoinStatsController",
+    "Method": "GetCoinStats",
+    "RelativePath": "api/CoinStats/GetCoinStats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KironTest.API.Controllers.CoinStatsController",
+    "Method": "GetCoinStats",
+    "RelativePath": "api/CoinStats/GetCoinStats",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KironTest.API.Controllers.HolidayController",
+    "Method": "GetAllBankHolidaysById",
+    "RelativePath": "api/Holiday/GetAllBankHolidaysById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "RegionId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KironTest.API.Controllers.HolidayController",
+    "Method": "GetAllBankHolidaysById",
+    "RelativePath": "api/Holiday/GetAllBankHolidaysById",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "RegionId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KironTest.API.Controllers.HolidayController",
+    "Method": "GetAllRegions",
+    "RelativePath": "api/Holiday/GetAllRegions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KironTest.API.Controllers.HolidayController",
+    "Method": "GetAllRegions",
+    "RelativePath": "api/Holiday/GetAllRegions",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KironTest.API.Controllers.HolidayController",
+    "Method": "InitializeUKBankHolidays",
+    "RelativePath": "api/Holiday/InitializeUKBankHolidays",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KironTest.API.Controllers.HolidayController",
+    "Method": "InitializeUKBankHolidays",
+    "RelativePath": "api/Holiday/InitializeUKBankHolidays",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KironTest.API.Controllers.SecurityController",
+    "Method": "Authorize",
+    "RelativePath": "api/Security/Authorize",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "KironTest.Shared.ViewModel.UserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KironTest.API.Controllers.SecurityController",
+    "Method": "Authorize",
+    "RelativePath": "api/Security/Authorize",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "KironTest.Shared.ViewModel.UserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KironTest.API.Controllers.SecurityController",
+    "Method": "Register",
+    "RelativePath": "api/Security/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "KironTest.Shared.ViewModel.UserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KironTest.API.Controllers.SecurityController",
+    "Method": "Register",
+    "RelativePath": "api/Security/Register",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "KironTest.Shared.ViewModel.UserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KironTest.API.Controllers.SitemapController",
+    "Method": "GetSitemap",
+    "RelativePath": "api/Sitemap/GetSitemap",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KironTest.API.Controllers.SitemapController",
+    "Method": "GetSitemap",
+    "RelativePath": "api/Sitemap/GetSitemap",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KironTest.API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[KironTest.API.WeatherForecast, KironTest.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

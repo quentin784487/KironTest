@@ -1,0 +1,15 @@
+C:\_systems\KironTest\KironTest.DAL\bin\Debug\net8.0\KironTest.DAL.deps.json
+C:\_systems\KironTest\KironTest.DAL\bin\Debug\net8.0\KironTest.DAL.dll
+C:\_systems\KironTest\KironTest.DAL\bin\Debug\net8.0\KironTest.DAL.pdb
+C:\_systems\KironTest\KironTest.DAL\bin\Debug\net8.0\KironTest.Shared.dll
+C:\_systems\KironTest\KironTest.DAL\bin\Debug\net8.0\KironTest.Shared.pdb
+C:\_systems\KironTest\KironTest.DAL\obj\Debug\net8.0\KironTest.DAL.csproj.AssemblyReference.cache
+C:\_systems\KironTest\KironTest.DAL\obj\Debug\net8.0\KironTest.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\_systems\KironTest\KironTest.DAL\obj\Debug\net8.0\KironTest.DAL.AssemblyInfoInputs.cache
+C:\_systems\KironTest\KironTest.DAL\obj\Debug\net8.0\KironTest.DAL.AssemblyInfo.cs
+C:\_systems\KironTest\KironTest.DAL\obj\Debug\net8.0\KironTest.DAL.csproj.CoreCompileInputs.cache
+C:\_systems\KironTest\KironTest.DAL\obj\Debug\net8.0\KironTes.89AB2641.Up2Date
+C:\_systems\KironTest\KironTest.DAL\obj\Debug\net8.0\KironTest.DAL.dll
+C:\_systems\KironTest\KironTest.DAL\obj\Debug\net8.0\refint\KironTest.DAL.dll
+C:\_systems\KironTest\KironTest.DAL\obj\Debug\net8.0\KironTest.DAL.pdb
+C:\_systems\KironTest\KironTest.DAL\obj\Debug\net8.0\ref\KironTest.DAL.dll

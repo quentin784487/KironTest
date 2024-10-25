@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KironTest.API.props" />
+</Project>

@@ -1,0 +1,11 @@
+C:\_systems\KironTest\Kirontest.HttpClient\bin\Debug\net8.0\Kirontest.HttpClient.deps.json
+C:\_systems\KironTest\Kirontest.HttpClient\bin\Debug\net8.0\Kirontest.HttpClient.dll
+C:\_systems\KironTest\Kirontest.HttpClient\bin\Debug\net8.0\Kirontest.HttpClient.pdb
+C:\_systems\KironTest\Kirontest.HttpClient\obj\Debug\net8.0\Kirontest.HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\_systems\KironTest\Kirontest.HttpClient\obj\Debug\net8.0\Kirontest.HttpClient.AssemblyInfoInputs.cache
+C:\_systems\KironTest\Kirontest.HttpClient\obj\Debug\net8.0\Kirontest.HttpClient.AssemblyInfo.cs
+C:\_systems\KironTest\Kirontest.HttpClient\obj\Debug\net8.0\Kirontest.HttpClient.csproj.CoreCompileInputs.cache
+C:\_systems\KironTest\Kirontest.HttpClient\obj\Debug\net8.0\Kirontest.HttpClient.dll
+C:\_systems\KironTest\Kirontest.HttpClient\obj\Debug\net8.0\refint\Kirontest.HttpClient.dll
+C:\_systems\KironTest\Kirontest.HttpClient\obj\Debug\net8.0\Kirontest.HttpClient.pdb
+C:\_systems\KironTest\Kirontest.HttpClient\obj\Debug\net8.0\ref\Kirontest.HttpClient.dll

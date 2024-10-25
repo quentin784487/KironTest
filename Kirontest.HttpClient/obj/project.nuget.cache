@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AuDeWSXcz1s=",
+  "success": true,
+  "projectFilePath": "C:\\_systems\\KironTest\\Kirontest.HttpClient\\Kirontest.HttpClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Quentin\\.nuget\\packages\\system.net.http.json\\8.0.1\\system.net.http.json.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
