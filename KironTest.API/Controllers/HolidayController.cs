@@ -2,6 +2,7 @@
 using KironTest.Shared.Exceptions;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
 
 namespace KironTest.API.Controllers
 {
@@ -28,6 +29,8 @@ namespace KironTest.API.Controllers
             }
             catch (ServiceException ex)
             {
+                //Log stack trace before returning message
+
                 return StatusCode(500, ex.Message);
             }
         }
@@ -42,6 +45,8 @@ namespace KironTest.API.Controllers
             }
             catch (ServiceException ex)
             {
+                //Log stack trace before returning message
+
                 return StatusCode(500, ex.Message);
             }
         }
@@ -56,6 +61,8 @@ namespace KironTest.API.Controllers
             }
             catch (ServiceException ex)
             {
+                //Log stack trace before returning message
+
                 return StatusCode(500, ex.Message);
             }
         }

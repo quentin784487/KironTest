@@ -32,6 +32,8 @@ namespace KironTest.API.Controllers
             }
             catch (ServiceException ex)
             {
+                //Log stack trace before returning message
+
                 return StatusCode(500, ex.Message);
             }
         }
@@ -47,6 +49,8 @@ namespace KironTest.API.Controllers
             }
             catch (ServiceException ex)
             {
+                //Log stack trace before returning message
+
                 return StatusCode(500, ex.Message);
             }
         }

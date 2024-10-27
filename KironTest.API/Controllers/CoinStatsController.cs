@@ -12,7 +12,7 @@ namespace KironTest.API.Controllers
     {
         private readonly ICoinStatsService _coinStatsService;
 
-        public CoinStatsController(ICoinStatsService _coinStatsService)
+        public CoinStatsController(ICoinStatsService _coinStatsService, ILogger _logger)
         {
             this._coinStatsService = _coinStatsService;
         }
@@ -27,6 +27,8 @@ namespace KironTest.API.Controllers
             }
             catch (ServiceException ex)
             {
+                //Log stack trace before returning message
+
                 return StatusCode(500, ex.Message);
             }
         }
